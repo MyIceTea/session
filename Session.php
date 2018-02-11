@@ -5,6 +5,11 @@ namespace EsTeh\Session;
 use EsTeh\Hub\Singleton;
 use EsTeh\Support\Config;
 
+/**
+ * @author Ammar Faizi <ammarfaizi2@gmail.com> https://www.facebook.com/ammarfaizi2
+ * @package \EsTeh\Session
+ * @license MIT
+ */
 class Session
 {
 	use Singleton;
